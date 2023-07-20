@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.grid-container{
+    height: 100vh;
+    display: grid;
+    padding: 20px;
+    border: solid;
+
+  grid-template-columns: 200px 400px 200px ;
+  grid-template-rows: 100px auto 100px;
+
+}
+
+.header{
+    background-color: red;
+}
+.nav{
+    background-color: blue;
+}
+.aside{
+    background-color: brown;
+}
+.section{
+    background-color: violet;
+}
+.footer{
+    background-color: yellow;
+}

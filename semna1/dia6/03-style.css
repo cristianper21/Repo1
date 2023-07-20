@@ -1,0 +1,17 @@
+/*propiedades de texto*/
+html {
+    font-size: 16px;
+}
+
+body{
+    font-family:'Roboto', sans-serif;
+}
+
+h1{
+    font-family: cursiva;
+    font-size: 3rem;
+}
+
+.parrafo{
+    font: bold 1.5rem monospace;
+}

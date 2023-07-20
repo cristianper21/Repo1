@@ -1,0 +1,12 @@
+
+
+
+
+
+input[type = "text"]{
+    border:  solid orange 3px;
+}
+
+input[type = "number"]{
+    border:  solid green 3px;
+}

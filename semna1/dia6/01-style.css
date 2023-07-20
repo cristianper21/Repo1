@@ -1,0 +1,12 @@
+.nav__main .link .hover{
+    color: red;
+}
+
+.noticia > .noticia__texto{
+    font-style : italic;
+    color: darkblue;
+}
+
+tbody > tr{
+    background-color: aqua;
+}
